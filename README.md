@@ -11,11 +11,11 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a  Front End Developer.</i>
 </h3>
 
 <h3>
-    <i>- Currently working at Masai School as an Instructional Associate</i>
+    <i>- Currently working at Sofyrus Technologies</i>
 </h3>
 <br>
 
@@ -24,10 +24,10 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
+    <a href="https://github.com/haseen857">
         <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
+    <a href="https://github.com/haseen857?tab=followers">
         <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
