@@ -1,86 +1,96 @@
-### Hi there, I'm **Mohd Haseen Ahmad**! 👋
+# 💻 Mohd Haseen Ahmad  
 
-💻 **Software Development Engineer in Test (SDET) | Quality Assurance Enthusiast**
+![SDET](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-![Software Testing](https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif)
-
-🚀 Passionate about **Quality Assurance, Automation Testing, and Frontend Development**. Skilled in ensuring high-quality software solutions and streamlining testing processes with cutting-edge tools.
+📍 **India**  |  📧 ahmadhaseen633@gmail.com  |  📞 +91-7302079835  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/haseen-khan-00bb321ab/)
 
 ---
 
-## 🔥 About Me
+## **🚀 Software Development Engineer in Test (SDET)**
 
-- 💼 **QA Engineer at Sofyrus Technologies**
-- 🛠️ **Expert in Functional & Automation Testing** (Cypress, Selenium, Robonito)
-- 🌍 **Based in India**
-- 📬 **Reach me at** [ahmadhaseen633@gmail.com](mailto:ahmadhaseen633@gmail.com)
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/haseen-khan-00bb321ab/) | [GitHub](#)**
+🔹 Passionate **Software QA Engineer** ensuring high-quality software solutions through rigorous testing methodologies.  
+🔹 Expertise in **Functional & Automation Testing** with a deep understanding of **QA best practices**.  
+🔹 Collaborative team player, working alongside developers and product teams to build robust and efficient software.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 📌 **Testing & Automation:**
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ⚙ **Development & CI/CD:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🎯 **Other Tools:**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Testing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
-## 🌟 Work Experience
+## **🛠 Technical Skills**
 
-### 💼 **Quality Assurance Engineer II** @ Sofyrus Technologies *(01/2023 - Present)*
-🔹 Lead test automation projects and mentor junior engineers.
-🔹 Implement test plans covering **functional, regression, and performance testing**.
-🔹 Optimize testing workflows for **faster deployments**.
+### **📌 Testing Expertise**
+✅ Functional & Non-Functional Testing  
+✅ End-to-End Testing  
+✅ UI, Compatibility, & Regression Testing  
+✅ API Testing (Postman, Swagger)  
+✅ Automation Testing (Cypress, Robonito)  
+✅ Test Planning & Documentation  
+✅ Agile/Scrum Methodologies  
+✅ SDLC & STLC  
 
-### 💼 **Quality Assurance Engineer I** @ Sofyrus Technologies *(01/2022 - 01/2023)*
-🔹 Conducted **manual and automated testing** for multiple projects.
-🔹 Designed and executed **API tests** using **Postman & Swagger**.
-🔹 Collaborated with cross-functional teams to **enhance software quality**.
-
----
-
-## 🌍 Projects
-
-### 🏥 **Patient-7 (Web Application)**
-📌 **A cloud-based EMR solution** for clinic management.
-
-### 🤖 **Robonito (Desktop Application)**
-📌 **No-code QA Automation tool** for seamless testing.
-
-### 📱 **DMW (Web & Mobile App)**
-📌 Digital solutions designed for client **efficiency & cost-effectiveness**.
+### **🖥 Tools & Technologies**
+- 🐞 **Bug Tracking:** Jira, Excel Sheets, Notepad
+- 🔄 **CI/CD & Version Control:** Git, GitHub, Bitbucket
+- 🌍 **Browsers:** Chrome, Safari, Firefox, Edge
+- 📜 **Documentation:** Confluence, Notion
+- 🏠 **Operating Systems:** Windows, macOS, Android, iOS
 
 ---
 
-## 📊 GitHub Stats
+## **💼 Work Experience**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+### 🔹 **Quality Assurance Engineer II** @ Sofyrus Technologies *(01/2023 - Present)*  
+📌 Led execution of test plans, including **functional, regression, and performance testing**.  
+📌 Mentored junior QA team members on **test case design & defect management**.  
+📌 Improved testing methodologies to increase efficiency.  
+📌 Collaborated with development teams and product managers to ensure **quality objectives**.  
+📌 Ensured **top-notch product quality** through UX advocacy.
 
-📈 **Top Languages Used:**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+### 🔹 **Quality Assurance Engineer I** @ Sofyrus Technologies *(01/2022 - 01/2023)*  
+📌 Conducted **manual testing**, including functional, regression, and **UAT**.  
+📌 Identified and documented **defects**, collaborating with teams for resolution.  
+📌 Created & reviewed **test cases**, ensuring coverage for multiple scenarios.  
+📌 Engaged in **cross-functional collaboration** for seamless testing execution.
 
 ---
 
-## 📫 Connect with Me
+## **🌟 Notable Projects**
 
-💌 **Email:** [ahmadhaseen633@gmail.com](mailto:ahmadhaseen633@gmail.com)
-🔗 **LinkedIn:** https://www.linkedin.com/in/haseen-khan-00bb321ab/(#)
+### 🏥 **Patient-7 (Web Application)**  
+📌 A cloud-based **SaaS EMR solution** for clinics to streamline patient management.
+
+### 🤖 **Robonito (Desktop Application)**  
+📌 A **no-code QA automation tool** designed for testers and QA professionals.
+
+### 📱 **DMW (Mobile & Web Application)**  
+📌 Client-focused **digital solutions** ensuring efficiency and cost-effectiveness.
+
+![QA](https://media.giphy.com/media/h5N1ftRYuVOuFu7Xr6/giphy.gif)
+
+---
+
+## **📋 Key Responsibilities**
+
+- 🏗 **Requirement Analysis:** Collaborate with stakeholders for clear, testable user stories.  
+- 📝 **Test Case Design & Execution:** Develop test cases for functional, regression, and automation testing.  
+- 🔍 **Defect Tracking:** Log, prioritize, and resolve bugs efficiently using Jira & Google Sheets.  
+- 📊 **User Acceptance Testing (UAT):** Validate functionality with stakeholders for business alignment.  
+- 🚀 **CI/CD Integration:** Implement automation into **DevOps pipelines** for efficiency.  
+- 📈 **Quality Metrics & Reporting:** Generate reports on test coverage, defects, and software health.  
+- 🔄 **Process Improvement:** Continuously refine QA workflows and implement best practices.
+
+---
+
+## **🎓 Education**
+
+📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University *(2020-2023)*
+
+---
+
+## **📞 Connect with Me**
+
+📧 **Email:** ahmadhaseen633@gmail.com  
+🔗 **LinkedIn:** [Visit My Profile](https://www.linkedin.com/in/haseen-khan-00bb321ab/)  
 📍 **Location:** India
 
-🚀 **Let's build and test great software together!**
+🌟 **Always open to new opportunities and collaborations!**
