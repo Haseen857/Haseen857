@@ -14,7 +14,7 @@
 - 🛠️ **Expert in Functional & Automation Testing** (Cypress, Selenium, Robonito)
 - 🌍 **Based in India**
 - 📬 **Reach me at** [ahmadhaseen633@gmail.com](mailto:ahmadhaseen633@gmail.com)
-- 🔗 **[LinkedIn](#) | [GitHub](#)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/haseen-khan-00bb321ab/) | [GitHub](#)**
 
 ---
 
@@ -80,7 +80,7 @@
 ## 📫 Connect with Me
 
 💌 **Email:** [ahmadhaseen633@gmail.com](mailto:ahmadhaseen633@gmail.com)
-🔗 **LinkedIn:** [Visit My Profile](#)
+🔗 **LinkedIn:** https://www.linkedin.com/in/haseen-khan-00bb321ab/(#)
 📍 **Location:** India
 
 🚀 **Let's build and test great software together!**
