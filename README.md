@@ -88,8 +88,8 @@
 
 ## **🎓 Education**
 
-📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University 
-📜 **Master of Computer Applications (Computer Science)** - Mangalayatan University
+- 📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University 
+- 📜 **Master of Computer Applications (Computer Science)** - Mangalayatan University
 
 ---
 
