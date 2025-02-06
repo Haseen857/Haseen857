@@ -83,7 +83,9 @@
 
 ## **🎓 Education**
 
-📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University *(2020-2023)*
+📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University 
+📜 **Master of Computer Applications (Computer Science)** - Mangalayatan University
+
 
 ---
 
