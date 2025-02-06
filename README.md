@@ -1,6 +1,6 @@
 # 💻 Mohd Haseen Ahmad  
 
-![SDET](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
 
 📍 **India**  |  📧 ahmadhaseen633@gmail.com  |  📞 +91-7302079835  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/haseen-khan-00bb321ab/)
 
@@ -16,6 +16,9 @@
 
 ---
 
+## **🧐 SDET & QA Mindset**
+![QA Mindset](https://media.giphy.com/media/h5N1ftRYuVOuFu7Xr6/giphy.gif)
+
 ## **🛠 Technical Skills**
 
 ### **📌 Testing Expertise**
@@ -29,15 +32,19 @@
 ✅ SDLC & STLC  
 
 ### **🖥 Tools & Technologies**
-- 🐞 **Bug Tracking:** Jira, Excel Sheets, Notepad
-- 🔄 **CI/CD & Version Control:** Git, GitHub, Bitbucket
-- 🌍 **Browsers:** Chrome, Safari, Firefox, Edge
-- 📜 **Documentation:** Confluence, Notion
-- 🏠 **Operating Systems:** Windows, macOS, Android, iOS
+- 🐞 **Bug Tracking & Debugging:** Jira, Excel Sheets, Notepad  
+  ![Bug Tracking](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+- 🔄 **CI/CD & Version Control:** Git, GitHub, Bitbucket  
+- 🌍 **Browsers:** Chrome, Safari, Firefox, Edge  
+- 🗂 **Documentation:** Confluence, Notion  
+- 🏡 **Operating Systems:** Windows, macOS, Android, iOS  
 
 ---
 
-## **💼 Work Experience**
+## **🌟 Automation Testing**
+![Automation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+## **🌟 Work Experience**
 
 ### 🔹 **Quality Assurance Engineer II** @ Sofyrus Technologies *(01/2023 - Present)*  
 📌 Led execution of test plans, including **functional, regression, and performance testing**.  
@@ -65,18 +72,16 @@
 ### 📱 **DMW (Mobile & Web Application)**  
 📌 Client-focused **digital solutions** ensuring efficiency and cost-effectiveness.
 
-![QA](https://media.giphy.com/media/h5N1ftRYuVOuFu7Xr6/giphy.gif)
-
 ---
 
-## **📋 Key Responsibilities**
+## **🗒 Key Responsibilities**
 
-- 🏗 **Requirement Analysis:** Collaborate with stakeholders for clear, testable user stories.  
+- 🏢 **Requirement Analysis:** Collaborate with stakeholders for clear, testable user stories.  
 - 📝 **Test Case Design & Execution:** Develop test cases for functional, regression, and automation testing.  
 - 🔍 **Defect Tracking:** Log, prioritize, and resolve bugs efficiently using Jira & Google Sheets.  
 - 📊 **User Acceptance Testing (UAT):** Validate functionality with stakeholders for business alignment.  
 - 🚀 **CI/CD Integration:** Implement automation into **DevOps pipelines** for efficiency.  
-- 📈 **Quality Metrics & Reporting:** Generate reports on test coverage, defects, and software health.  
+- 📊 **Quality Metrics & Reporting:** Generate reports on test coverage, defects, and software health.  
 - 🔄 **Process Improvement:** Continuously refine QA workflows and implement best practices.
 
 ---
@@ -86,13 +91,12 @@
 📜 **Bachelor of Science (Computer Science)** - Aligarh Muslim University 
 📜 **Master of Computer Applications (Computer Science)** - Mangalayatan University
 
-
 ---
 
 ## **📞 Connect with Me**
 
 📧 **Email:** ahmadhaseen633@gmail.com  
 🔗 **LinkedIn:** [Visit My Profile](https://www.linkedin.com/in/haseen-khan-00bb321ab/)  
-📍 **Location:** India
+📍 **Location:** India  
 
 🌟 **Always open to new opportunities and collaborations!**
